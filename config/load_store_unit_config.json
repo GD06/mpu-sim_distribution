@@ -1,0 +1,5 @@
+{
+	"max_num_fb_local_prt_entry": 8,
+	"max_num_fb_remote_prt_entry": 8,
+	"max_num_nb_prt_entry": 8
+}

@@ -1,0 +1,14 @@
+{
+    "blur" : [],
+    "conv" : [],
+    "gemv" : [],
+    "histogram" : [],
+    "kmeans" : [],
+    "knn" : [],
+    "matrixtrans" : [],
+    "maxpool" : [],
+    "nw" : [],
+    "upsample" : [],
+    "vectoradd" : [],
+    "vectorsum" : []
+}

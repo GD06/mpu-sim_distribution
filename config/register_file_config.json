@@ -1,0 +1,24 @@
+{
+    "reg_file_addr_map": "reg_file_addr_map_1",
+    
+    "subcore_reg_file_size": 32768,
+    "num_subcore_reg_file_bank": 4,
+    "subcore_reg_file_bank_queue_size": 4,
+    "subcore_reg_file_read_latency": 1,
+    "subcore_reg_file_write_latency": 1,
+    "subcore_special_reg_read_latency": 1,
+    "subcore_param_reg_read_latency": 1,
+    "subcore_reg_file_bank_read_energy": 0.0402723,
+    "subcore_reg_file_bank_write_energy": 0.0438918,
+    "pg_reg_file_bank_read_energy": 0.0402723,
+    "pg_reg_file_bank_write_energy": 0.0438918,
+
+    "num_pg_reg_file_bank": 4,
+    "pg_reg_file_bank_queue_size": 4,
+    "pg_reg_file_read_latency": 1,
+    "pg_reg_file_write_latency": 1,
+
+    "reg_track_table_size": 512,
+    "reg_track_table_read_energy": 0.000219836,
+    "reg_track_table_write_energy": 0.00018576
+}

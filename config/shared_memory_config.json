@@ -1,0 +1,11 @@
+{
+	"smem_addr_map": "smem_addr_map_1",
+	"smem_size": 65536,
+	"num_smem_bank": 32,
+	"smem_req_queue_size": 1,
+	"smem_bank_req_queue_size": 32,
+	"smem_read_latency": 1,
+	"smem_write_latency": 1,
+    "smem_bank_read_energy": 0.000694566,
+    "smem_bank_write_energy": 0.000753546
+}

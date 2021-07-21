@@ -1,0 +1,5 @@
+{
+    "num_core_x": 4,
+    "num_core_y": 4,
+    "processor_shared_bus_io_width": 128
+}

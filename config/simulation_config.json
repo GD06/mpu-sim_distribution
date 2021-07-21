@@ -1,0 +1,8 @@
+{
+    "display_simulation_progress": false,
+    "bypass_ld_st_global_backend": false,
+    "bypass_router": false,
+    "bypass_lsu_remote_dcache": false,
+    "bypass_niu_dcache": false,
+    "annotate_location": true 
+}
